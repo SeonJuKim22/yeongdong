@@ -34,6 +34,7 @@ select{background-position:96% center;}
 .wrap{position:relative;min-width:360px;width:1400px;margin:0 auto;box-sizing:border-box;}
 #header .wrap,#footer .wrap{width:100%;padding:0 50px;}
 @media only screen and (max-width:1400px){
+    .wrap{min-width:1400px;width:100%;}
 #header .wrap,#footer .wrap{padding:0 20px;}
 }
 @media only screen and (max-width:1200px){
